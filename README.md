@@ -62,6 +62,7 @@ schedule:
 For more information, please refer to the following documentation:
 
 [Airbyte Documentation](https://docs.airbyte.com/)
+
 [Football-Data.org Documentation](https://www.football-data.org/)
 
 ## Licence
