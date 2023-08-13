@@ -18,7 +18,7 @@ To install the connector, you will need to clone the repository and install the 
 
 ```bash
 git clone https://github.com/JanneImmonen/FootballDataConnector.git
-cd football_data_connector
+cd FootballDataConnector
 pip install -r requirements.txt
 ```
 
